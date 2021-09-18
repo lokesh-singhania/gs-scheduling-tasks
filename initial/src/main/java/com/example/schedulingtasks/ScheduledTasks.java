@@ -21,4 +21,5 @@ public class ScheduledTasks {
 		LOGGER.info("The time is now {}",dateFormat.format(new Date()));
 	}
 	
+	
 }
